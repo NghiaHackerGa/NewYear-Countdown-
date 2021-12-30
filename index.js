@@ -33,5 +33,5 @@ function countdown() {
     }
 }
 
-let i = setInterval(countdown, 1000)
+let i = setInterval(countdown, 1000);
 countdown()
