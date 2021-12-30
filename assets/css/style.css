@@ -11,7 +11,7 @@
     color: white;
 }
 body {
-    background: url(../assets/img/background.jpg);
+    background: url(../img/background.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
